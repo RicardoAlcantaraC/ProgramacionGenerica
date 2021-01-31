@@ -11,7 +11,7 @@ namespace ProgramacionGenerica
             
             //Agrego elementos de tipo empleado
             miAlmacen.agregar(new Empleado(1000));
-            miAlmacen.agregar(new Empleado(2000));
+            miAlmacen.agregar(new Empleado(9000));
             miAlmacen.agregar(new Empleado(3000));
             miAlmacen.agregar(new Empleado(4000));
            
